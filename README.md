@@ -8,4 +8,4 @@ In this project, I built a random number password generator using the coding lan
    
 <img src=["View"](https://cdn.discordapp.com/attachments/716795860234665987/1246145863600832542/Screenshot_2024-01-01_204605.png?ex=665b5346&is=665a01c6&hm=1a4dcfeeb2c5516c0002ac04733fdafac91c8d7c46e90c6b8bfea58c1fddd982&)> 
 
-<a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+<a href="https://freecatphotoapp.com"><img src=["https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."](https://cdn.discordapp.com/attachments/716795860234665987/1246145863600832542/Screenshot_2024-01-01_204605.png?ex=665b5346&is=665a01c6&hm=1a4dcfeeb2c5516c0002ac04733fdafac91c8d7c46e90c6b8bfea58c1fddd982&)></a>
