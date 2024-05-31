@@ -23,3 +23,8 @@ The order function is responsible for gathering the user's preferences for the p
 Finally, the order function is called to execute the sequence of prompts and generate the password based on the user’s choices. 
 
 <img src="https://cdn.discordapp.com/attachments/716795860234665987/1246149897137291389/Screenshot_2024-05-31_121406.png?ex=665b5707&is=665a0587&hm=d1ce88d80ea40ac540a0cf8a4bf39298332fe7febdeb0af0998b4b00c27aa71c&" alt=""></a>
+
+
+## Conclusion
+
+To wrap this up, this was my first python project and I very much enjoyed it creating this random number password generator using different commands, functions, and many more and will hope to make more projects in the future.
