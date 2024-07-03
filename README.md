@@ -23,7 +23,8 @@ The order function is responsible for gathering the user's preferences for the p
 
 Finally, the order function is called to execute the sequence of prompts and generate the password based on the user’s choices. 
 
-<img src="![Screenshot_2024-05-31_121406](https://github.com/BrandenNet/Random-Password-Generator-Python-/assets/136115822/35bcab59-a4c9-4952-a0c2-29a565c54a9c)"></a>
+
+![Screenshot_2024-05-31_121406](https://github.com/BrandenNet/Random-Password-Generator-Python-/assets/136115822/3249ffaa-d0f9-4639-ab01-cac9e3c2996b)
 
 
 ## Conclusion
