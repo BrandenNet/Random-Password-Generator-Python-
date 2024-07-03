@@ -6,7 +6,8 @@ In this project, I built a random number password generator using the coding lan
 
 ## Code
 
-<img src="https://cdn.discordapp.com/attachments/716795860234665987/1246147500159537253/Python_.png?ex=665b54cc&is=665a034c&hm=8329abe8bf824abd40117295213b08e23d1e75cf39a7f59a59ae8409695153a2&" alt="View."></a>
+<img src=""![Python_](https://github.com/BrandenNet/Random-Password-Generator-Python-/assets/136115822/f52bd856-c7c7-42b5-af4f-9b8887b422cf)
+></a>
 
 ## Explanation of Code
 
